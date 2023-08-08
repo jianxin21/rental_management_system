@@ -25,11 +25,11 @@ The major use case of each actor is listed in the below figure: <br><br>
 <br>
 
 --> Admin use case diagram <br>
-![image](https://github.com/jianxin21/rental_management_system/assets/141626881/2c6d4876-dccf-4042-8aa2-2ef6eb40fde6)
+![image](https://github.com/jianxin21/rental_management_system/assets/141626881/14ed06f7-4594-43e5-b9eb-7280f64628d9)
 <br>
 
---> Possible tenant use case diagram
-
+--> Possible tenant use case diagram <br>
+![image](https://github.com/jianxin21/rental_management_system/assets/141626881/4041eb49-15c6-427e-a5e1-edfccd502683)
 <br>
 
 --> User use case diagram
