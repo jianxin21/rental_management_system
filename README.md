@@ -20,11 +20,11 @@ Admin: an admin can manage all property and user; <br>
 User: a user can view the active property, but one must register an account to be a possible tenant which then one can edit the account username and password. <br> 
 The major use case of each actor is listed in the below figure: <br><br>
 
---> Use Case Diagram of Cyberjaya Rental Management System
+--> Use Case Diagram of Cyberjaya Rental Management System <br>
 ![image](https://github.com/jianxin21/rental_management_system/assets/141626881/50494c00-f30f-4173-8fea-7c373ae2a581)
 <br>
 
---> Admin use case diagram
+--> Admin use case diagram <br>
 ![image](https://github.com/jianxin21/rental_management_system/assets/141626881/2c6d4876-dccf-4042-8aa2-2ef6eb40fde6)
 <br>
 
