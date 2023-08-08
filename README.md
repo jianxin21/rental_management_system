@@ -11,3 +11,5 @@ The assumptions in this project include: <br><br>
 •	All property in Cyberjaya Online Rental Management System is managed by the admin; the user is either a user without an account or a possible tenant with an account. There is no property agent or property owner. <br>
 •	Rent property feature for a tenant is not included in this system, major features for a possible tenant are currently limited to edit profile and view active property <br>
 •	The program can run on BlueJ or command prompt <br>
+
+There are three actors in this project: admin, possible tenant, and user. <br> An admin can manage all property and user; <br> a user can view the active property, but one must register an account to be a possible tenant which then one can edit the account username and password. <br> The major use case of each actor is listed in the below table: <br>
