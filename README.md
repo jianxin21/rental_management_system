@@ -39,4 +39,5 @@ The major use case of each actor is listed in the below figure: <br><br>
 ![image](https://github.com/jianxin21/rental_management_system/assets/141626881/40be9e7d-ffa6-4e55-833c-1884d3eaf193)
 <br>
 
-<br> Thank You <br>
+## Design pattern
+In Cyberjaya Property Management System, the design pattern Model-View-Controller (MVC) is implemented to achieve separation of concerns. The View component renders the final output based on the data in the Model. The Model performs actions corresponds to the related data. Then, requests are routed to Controller. The Controller acts as an interface between Model and View chooses the view to display. Every user of the system can access to the loginGui after launching the program. Admin can only see the interface of admin page (adminGui) after logged in; possible tenant can view the user interface (userGui), which a user without an account will have zero access to. Admin and tenant will not see the interface design of each other. For instance, a possible tenant class will retrieve, manipulate, and update the possible tenant information from the database. 
