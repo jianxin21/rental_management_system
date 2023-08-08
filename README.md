@@ -6,7 +6,7 @@ Cyberjaya Online Rental Management System is a system that allows users to view 
 •	To allow user to register an account to be a possible tenant <br>
 •	To allow possible tenant to edit profile <br>
 •	To allow system admin to view and manage property, such as deleting, activating, and inactivating the property <br>
-•	To allow system admin to print report of the property or user list <br><br><br>
+•	To allow system admin to print report of the property or user list <br><br>
 
 ## 2.0 Assumptions and Dependencies
 The assumptions in this project include: <br><br>
