@@ -14,6 +14,9 @@ The assumptions in this project include: <br><br>
 •	Rent property feature for a tenant is not included in this system, major features for a possible tenant are currently limited to edit profile and view active property <br>
 •	The program can run on BlueJ or command prompt<br>
 
+## Graphic User Interface (GUI)
+Overview of the whole project, please refer to **GUI.pdf**
+
 ## Use-case diagram
 There are three actors in this project: **admin, possible tenant, and user**. <br><br>
 Admin: an admin can manage all property and user; <br> 
@@ -36,3 +39,4 @@ The major use case of each actor is listed in the below figure: <br><br>
 ![image](https://github.com/jianxin21/rental_management_system/assets/141626881/40be9e7d-ffa6-4e55-833c-1884d3eaf193)
 <br>
 
+<br> Thank You <br>
