@@ -32,7 +32,7 @@ The major use case of each actor is listed in the below figure: <br><br>
 ![image](https://github.com/jianxin21/rental_management_system/assets/141626881/4041eb49-15c6-427e-a5e1-edfccd502683)
 <br>
 
---> User use case diagram
-
+--> User use case diagram <br>
+![image](https://github.com/jianxin21/rental_management_system/assets/141626881/40be9e7d-ffa6-4e55-833c-1884d3eaf193)
 <br>
 
