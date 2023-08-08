@@ -21,18 +21,18 @@ User: a user can view the active property, but one must register an account to b
 The major use case of each actor is listed in the below figure: <br><br>
 
 --> Use Case Diagram of Cyberjaya Rental Management System
-![image](https://github.com/jianxin21/rental_management_system/assets/141626881/5e74a005-0c6c-4d07-8b65-5fd6b5371b60)
+![image](https://github.com/jianxin21/rental_management_system/assets/141626881/50494c00-f30f-4173-8fea-7c373ae2a581)
 <br>
 
 --> Admin use case diagram
-![image](https://github.com/jianxin21/rental_management_system/assets/141626881/1a47cd84-0b81-48c1-82b9-53e6a1f01888)
+![image](https://github.com/jianxin21/rental_management_system/assets/141626881/2c6d4876-dccf-4042-8aa2-2ef6eb40fde6)
 <br>
 
 --> Possible tenant use case diagram
-![image](https://github.com/jianxin21/rental_management_system/assets/141626881/a96fed82-1adb-4cb2-961f-ae9ee3e8c9be)
+
 <br>
 
 --> User use case diagram
-![image](https://github.com/jianxin21/rental_management_system/assets/141626881/c2244b1e-c32b-48a0-a36a-6c9d2a359e6d)
+
 <br>
 
